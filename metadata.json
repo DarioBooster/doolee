@@ -1,0 +1,6 @@
+{
+  "name": "Doolee",
+  "description": "Application web légère et confidentielle de génération de badges événementiels personnalisés à partir de templates graphiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
